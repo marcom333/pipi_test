@@ -1,0 +1,11 @@
+{
+    "name": "working/pipit",
+    "description": "testing libraries",
+    "authors": [
+        {
+            "name": "marcom333",
+            "email": "dev.marco.medina@gmail.com"
+        }
+    ],
+    "require": {}
+}
